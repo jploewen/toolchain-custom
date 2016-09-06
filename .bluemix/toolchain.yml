@@ -20,7 +20,7 @@ ccm:
     lifecyclePhase: "THINK"
     imageUrl: https://www.ibm.com/cloud-computing/bluemix/images/catalog-trackplan.png
     documentationUrl:
-    name: {{name}}
+    name: "{{name}}"
     dashboard_url:
     description:
     additional-properties:
@@ -32,7 +32,7 @@ git:
     lifecyclePhase: "CODE"
     imageUrl: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png
     documentationUrl:
-    name: {{name}}
+    name: "{{name}}"
     dashboard_url:
     description:
     additional-properties:
@@ -44,7 +44,7 @@ webide:
     lifecyclePhase: "CODE"
     imageUrl: http://www.eclipse.org/ecd/img/eclipse256.png
     documentationUrl:
-    name: {{name}}
+    name: "{{name}}"
     dashboard_url:
     description:
     additional-properties:
@@ -56,7 +56,7 @@ pipeline:
     lifecyclePhase: "DELIVER"
     imageUrl: https://www.ibm.com/cloud-computing/bluemix/images/catalog-deliverypipeline.png
     documentationUrl:
-    name: {{name}}
+    name: "{{name}}"
     dashboard_url:
     description:
     additional-properties:
