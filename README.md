@@ -1,6 +1,6 @@
 #JazzHub bookmarks toolchain
 
-Use this toolchain template to document existing tools available in some [JazzHub project](https://hub.jazz.net/projects).
+Use this toolchain template to document existing tools available in some [JazzHub project](https://hub.jazz.net).
 
 To get started, click **Create toolchain**.
 
