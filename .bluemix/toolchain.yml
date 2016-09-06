@@ -11,6 +11,7 @@ required:
  - ccm
  - git
  - pipeline
+ - webide
 
 ccm:
   service_id: customtool
@@ -35,7 +36,19 @@ git:
     dashboard_url:
     description:
     additional-properties:
-  
+
+webide:
+  service_id: customtool
+  parameters:
+    type: Eclipse WebIDE
+    lifecyclePhase: "DELIVER"
+    imageUrl: https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-426x100.png
+    documentationUrl:
+    name:
+    dashboard_url:
+    description:
+    additional-properties:
+    
 pipeline:
   service_id: customtool
   parameters:
