@@ -3,7 +3,7 @@ default_locale: en
 locales: 
   $ref: locales.yml
 name: "JazzHub bookmarks toolchain"
-description: "With this toolchain, you can bookmark existing tools in your [JazzHub project](https://hub.jazz.net/projects). \n\nTo get started, click **Create**."
+description: "With this toolchain, you can bookmark existing tools in your [JazzHub project](https://hub.jazz.net). \n\nTo get started, click **Create**."
 version: 0.1
 # Generate base64 representation of image at http://www.askapache.com/online-tools/base64-image-converter/
 image: data:image/png;base64,$file(simple-toolchain-cont.png,base64)
